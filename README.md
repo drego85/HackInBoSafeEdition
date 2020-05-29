@@ -18,7 +18,7 @@ The _function.php_ file allows you to enable or disable evasion techniques.
 
 ### Talk
 
-The event will be visible on [YouTube Live Streaming](https://www.youtube.com/watch?v=sVoBI3_dTMI), more details on my (blog)[https://www.andreadraghetti.it/hackinbo-safe-edition-versione-online/).
+The event will be visible on [YouTube Live Streaming](https://www.youtube.com/watch?v=sVoBI3_dTMI), more details on my [blog](https://www.andreadraghetti.it/hackinbo-safe-edition-versione-online/).
 
 ### Bibliography
 
